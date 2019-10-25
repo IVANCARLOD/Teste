@@ -6,7 +6,6 @@
 </head>
 
 <body>
-    Olá mundo
 
 </body>
 
